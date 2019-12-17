@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="matematicas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/matematicas_jar</output-path>
+    <root id="archive" name="matematicas.jar">
+      <element id="module-output" name="matematicas" />
+    </root>
+  </artifact>
+</component>

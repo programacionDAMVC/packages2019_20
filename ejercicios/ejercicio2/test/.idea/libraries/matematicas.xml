@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="matematicas">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../matematicas/out/artifacts/matematicas_jar/matematicas.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
